@@ -1,0 +1,14 @@
+[package]
+name = "blackscript"
+version = "0.1.0"
+edition = "2024"
+description = "Minimalistic text editor for writing essays & papers"
+authors = ["OnlyF0uR"]
+license = "GPL-3.0"
+readme = "README.md"
+repository = "https://github.com/OnlyF0uR/blackscript"
+keywords = ["text-editor", "writing", "editor", "gui"]
+categories = ["text-editors", "gui"]
+
+[dependencies]
+iced = "0.13.1"
