@@ -11,4 +11,4 @@ keywords = ["text-editor", "writing", "editor", "gui"]
 categories = ["text-editors", "gui"]
 
 [dependencies]
-iced = { version = "0.13.1", features = ["advanced", "tokio"] }
+iced = { version = "0.13.1", features = ["advanced", "tokio", "canvas"] }
